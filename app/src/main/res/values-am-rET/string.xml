@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string name="app_name"> Watch</string>
+        <string name="start">ጅምር</string>
+        <string name="pause">akim</string>
+        <string name="resume">Resume</string>
+        <string name="stop">Stop</string>
+        <string name="reset">Reset</string>
+    </resources>
